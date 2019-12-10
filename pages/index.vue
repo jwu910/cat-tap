@@ -6,14 +6,16 @@
         cat-tap
       </h1>
       <h2 class="subtitle">
-        Tap for cat
+        Tap for Cat
       </h2>
       <div class="links">
+        <a href="https://nuxtjs.org/" target="_blank" class="button--green">
+          Documentation
+        </a>
         <a
-          href="https://github.com/jwu910/cat-tap"
+          href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           class="button--grey"
-          rel="noopener noreferrer"
         >
           GitHub
         </a>

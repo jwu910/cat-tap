@@ -1,6 +1,6 @@
 # cat-tap
 
-> Tap for cat
+> Tap for Cat
 
 ## Build Setup
 
